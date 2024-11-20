@@ -1,5 +1,7 @@
 # FrontEnd | FullStack ResTIC36
 
+![vs](https://github.com/user-attachments/assets/259489a8-65be-4a28-96fc-c5ec67b2f54d)
+
 ## Descrição
 
 Este projeto visa o desenvolvimento do frontend da aplicação fullstack final da trilha, utilizando o framework Angular. O frontend deve ser completamente responsivo, intuitivo e em conformidade com o layout proposto. A estrutura será baseada em componentes reutilizáveis, permitindo fácil manutenção e escalabilidade. O projeto também incluirá funcionalidades dinâmicas, como formulários e navegação, além do uso do Angular Material e json-server para simular a interação com uma API, que será substituída pelo backend posteriormente.
